@@ -1,0 +1,10 @@
+{
+  "voices": {
+    "lucent": {
+      "signature": "<|end_theorem|>",
+      "domain": "Mathematical Harmony",
+      "active": true
+    }
+  },
+  "threads": []
+}
